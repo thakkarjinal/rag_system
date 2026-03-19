@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is BM25?",
+    "ground_truth": "BM25 is a ranking function used by search engines to estimate the relevance of documents to a search query."
+  },
+  {
+    "question": "What does the parameter k1 control in BM25?",
+    "ground_truth": "The k1 parameter controls the saturation of term frequency in the BM25 scoring formula."
+  },
+  {
+    "question": "What role does the parameter b play in BM25?",
+    "ground_truth": "The parameter b controls the degree of document length normalization in the BM25 scoring formula."
+  }
+]
